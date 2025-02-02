@@ -1,5 +1,7 @@
 # GUI app for SQLite database Operations using C# (CSharp) and WinForms
 
+![Build your own sqlite gui app using c# on .net platform for crud operations](/blob/main/_4_Screenshots/simple-sqlite-database-viewer.jpg)
+
 ## Youtube Video Tutorial
 
 ## Online Web Tutorial
