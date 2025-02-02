@@ -22,6 +22,7 @@
 
 - Requires either [System.Data.SQLite.Core](https://www.nuget.org/packages/System.Data.SQLite.Core)
 - or [System.Data.SQLite](https://www.nuget.org/packages/System.Data.SQLite)
+- ![](_4_Screenshots/nuget-package.jpg)
 
 ## Screenshots
 
