@@ -4,7 +4,7 @@
 
 ## Online Web Tutorial
 
-![creating a gui app for displaying sqlite databse on winforms](https://github.com/xanthium-enterprises/GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms/blob/main/_4_Screenshots/sqlite-csharp-dotnet-source-code.jpg)
+![creating a gui app for displaying sqlite database on winforms](https://github.com/xanthium-enterprises/GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms/blob/main/_4_Screenshots/sqlite-csharp-dotnet-source-code.jpg)
 
 - [Integrating SQLite Database with WinForms GUI app using C# ](https://www.xanthium.in/building-csharp-sqlite-gui-crud-applications-using-winforms-api-tutorial)
 - [Introduction to Connecting SQLite Database using C# for Performing CRUD operations](https://www.xanthium.in/cross-platform-create-connect-update-sqlite3-database-using-csharp-dotnet-platform)
@@ -17,6 +17,11 @@
  
 
 ## Dependencies
+
+- Requires either [System.Data.SQLite.Core](https://www.nuget.org/packages/System.Data.SQLite.Core)
+- or [System.Data.SQLite](https://www.nuget.org/packages/System.Data.SQLite)
+
+## Screenshots
 
 ![](https://github.com/xanthium-enterprises/GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms/blob/main/_4_Screenshots/sqlite_data_adapter_output.png)
  
