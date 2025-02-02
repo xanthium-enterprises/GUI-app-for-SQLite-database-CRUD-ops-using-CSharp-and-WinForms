@@ -4,9 +4,9 @@
 ## Online Web Tutorial
 ## Repo Contents
 
- - _1_SQLite-Database-Viewer-VS2022-Project  -> Visual Studio 2022 WinForms Project along with C# Source Codes 
- - _2_CommandLine-SQLiteDataAdapter-Tutorial -> SQLiteDataAdapter Class tutorial (command line program)
- - _3_Sample_SQLite_Database -> Sample SQLite Database to use with your Project
+ - **_1_SQLite-Database-Viewer-VS2022-Project**  -> Visual Studio 2022 **WinForms Project** along with C# Source Codes 
+ - **_2_CommandLine-SQLiteDataAdapter-Tutorial** -> SQLiteDataAdapter Class tutorial (command line program)
+ - **_3_Sample_SQLite_Database** -> Sample SQLite Database to use with your Project
  -
 
 ## Dependencies
