@@ -14,6 +14,7 @@
 
 - [Integrating SQLite Database with WinForms GUI app using C# ](https://www.xanthium.in/building-csharp-sqlite-gui-crud-applications-using-winforms-api-tutorial)
 - [Introduction to Connecting SQLite Database using C# for Performing CRUD operations](https://www.xanthium.in/cross-platform-create-connect-update-sqlite3-database-using-csharp-dotnet-platform)
+- [How to create a stand alone windows executable file using Visual Studio Publish Command](https://www.xanthium.in/create-stand-alone-windows-executable-msi-setup-files-using-visual-studio-click-once)
 
 ## Repo Contents
 
