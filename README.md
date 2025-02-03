@@ -2,6 +2,10 @@
 
 ![Build your own sqlite gui app using c# on .net platform for crud operations](/_4_Screenshots/simple-sqlite-database-viewer.jpg)
 
+- In this repo,you can find a C# winforms application that can connect with an SQLite Database and display the contents of the SQLite db on the Form using DataGridView Control.
+- Created using Visual Studio 2022 Community
+- Supports .NET Core /.NET7 /.NET8 and above.
+
 ## Youtube Video Tutorial
 
 ## Online Web Tutorial
@@ -28,5 +32,9 @@
 
 ## Screenshots
 
-![](https://github.com/xanthium-enterprises/GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms/blob/main/_4_Screenshots/sqlite_data_adapter_output.png)
+- ![learn to display a kaggle data set on winforms using C# and Sqlite ](/_4_Screenshots/display-kaggle-data-set.jpg)
+- ![reading and writing into sqlite database using C# and winforms gui api](https://github.com/xanthium-enterprises/GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms/blob/main/_4_Screenshots/sqlite_data_adapter_output.png)
+
+
+
  
