@@ -8,7 +8,7 @@
 
 ## Youtube Video Tutorial
 
-![Video tutorial on building a C# Winforms application for dotnet platform](/_4_Screenshots/youtube-logo-icon.png)
+<img src="/_4_Screenshots/youtube-logo-icon.png" alt="Video tutorial on building a C# Winforms application for dotnet platform" width="250" >
 
 - [YT Video Tutorial on Building a C# Winforms application to display SQLite Tables on .NET](https://www.youtube.com/watch?v=LUslHhvLGWA)
 
