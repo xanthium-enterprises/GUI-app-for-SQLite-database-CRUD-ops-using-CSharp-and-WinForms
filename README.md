@@ -8,6 +8,10 @@
 
 ## Youtube Video Tutorial
 
+![Video tutorial on building a C# Winforms application for dotnet platform](/_4_Screenshots/youtube-logo-icon.png)
+
+- [YT Video Tutorial on Building a C# Winforms application to display SQLite Tables on .NET](https://www.youtube.com/watch?v=LUslHhvLGWA)
+
 ## Online Web Tutorial
 
 ![creating a gui app for displaying sqlite database on winforms](https://github.com/xanthium-enterprises/GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms/blob/main/_4_Screenshots/sqlite-csharp-dotnet-source-code.jpg)
