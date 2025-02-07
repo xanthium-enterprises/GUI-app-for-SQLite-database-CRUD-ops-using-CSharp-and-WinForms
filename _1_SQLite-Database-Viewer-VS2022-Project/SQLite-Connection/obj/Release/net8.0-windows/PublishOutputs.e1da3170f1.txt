@@ -1,0 +1,10 @@
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\SQLite-Connection.exe
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\SQLite-Connection.dll
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\SQLite-Connection.deps.json
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\SQLite-Connection.runtimeconfig.json
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\SQLite-Connection.pdb
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\System.Data.SQLite.dll
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\runtimes\linux-x64\native\SQLite.Interop.dll
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\runtimes\osx-x64\native\SQLite.Interop.dll
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\runtimes\win-x64\native\SQLite.Interop.dll
+H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\bin\Release\net8.0-windows\app.publish\runtimes\win-x86\native\SQLite.Interop.dll

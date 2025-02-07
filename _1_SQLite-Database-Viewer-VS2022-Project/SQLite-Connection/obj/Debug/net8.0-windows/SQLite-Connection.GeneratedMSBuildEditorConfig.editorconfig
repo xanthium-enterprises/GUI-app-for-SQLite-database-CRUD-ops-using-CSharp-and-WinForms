@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SQLite_Connection
-build_property.ProjectDir = H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\SQLite-Database-Viewer\SQLite-Connection\
+build_property.ProjectDir = H:\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\_1_SQLite-Database-Viewer-VS2022-Project\SQLite-Connection\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

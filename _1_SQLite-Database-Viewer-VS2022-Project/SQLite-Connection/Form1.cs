@@ -71,7 +71,11 @@ namespace SQLite_Connection
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            var startInfo = new System.Diagnostics.ProcessStartInfo("https://www.youtube.com/watch?v=LUslHhvLGWA")
+            {
+                UseShellExecute = true  // Ensures the URL is opened in the default browser
+            };
+            System.Diagnostics.Process.Start(startInfo);
         }
 
         private void linkLabel4_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

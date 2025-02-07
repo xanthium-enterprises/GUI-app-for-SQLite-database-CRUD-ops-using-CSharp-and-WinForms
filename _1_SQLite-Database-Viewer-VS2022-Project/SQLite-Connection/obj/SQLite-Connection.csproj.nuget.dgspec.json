@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\SQLite-Database-Viewer\\SQLite-Connection\\SQLite-Connection.csproj": {}
+    "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\_1_SQLite-Database-Viewer-VS2022-Project\\SQLite-Connection\\SQLite-Connection.csproj": {}
   },
   "projects": {
-    "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\SQLite-Database-Viewer\\SQLite-Connection\\SQLite-Connection.csproj": {
+    "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\_1_SQLite-Database-Viewer-VS2022-Project\\SQLite-Connection\\SQLite-Connection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\SQLite-Database-Viewer\\SQLite-Connection\\SQLite-Connection.csproj",
+        "projectUniqueName": "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\_1_SQLite-Database-Viewer-VS2022-Project\\SQLite-Connection\\SQLite-Connection.csproj",
         "projectName": "SQLite-Connection",
-        "projectPath": "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\SQLite-Database-Viewer\\SQLite-Connection\\SQLite-Connection.csproj",
+        "projectPath": "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\_1_SQLite-Database-Viewer-VS2022-Project\\SQLite-Connection\\SQLite-Connection.csproj",
         "packagesPath": "C:\\Users\\Rahul\\.nuget\\packages\\",
-        "outputPath": "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\SQLite-Database-Viewer\\SQLite-Connection\\obj\\",
+        "outputPath": "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\_1_SQLite-Database-Viewer-VS2022-Project\\SQLite-Connection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

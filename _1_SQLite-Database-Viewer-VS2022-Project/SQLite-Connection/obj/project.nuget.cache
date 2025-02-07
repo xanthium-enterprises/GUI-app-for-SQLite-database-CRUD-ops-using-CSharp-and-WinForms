@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/K43J1RtI6c=",
+  "success": true,
+  "projectFilePath": "H:\\GUI-app-for-SQLite-database-CRUD-ops-using-CSharp-and-WinForms\\_1_SQLite-Database-Viewer-VS2022-Project\\SQLite-Connection\\SQLite-Connection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahul\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Rahul\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
